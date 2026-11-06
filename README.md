@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dish982/dish982/main/cat(1).svg" width="280" alt="floating cat saying hi" />
+<img src="https://raw.githubusercontent.com/dish982/dish982/main/cat.svg" width="280" alt="floating cat saying hi" />
 
 # ✦ Disha Jagetia ✦
 
