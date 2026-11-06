@@ -145,8 +145,6 @@ Image feature extraction and XGBoost classification of tomato leaf diseases, bui
 ![Postman](https://img.shields.io/badge/Postman-ffd6e0?style=for-the-badge&logo=postman&logoColor=5b4b6b)
 ![Shopify](https://img.shields.io/badge/Shopify-d4f1e4?style=for-the-badge&logo=shopify&logoColor=5b4b6b)
 
-<sub>Scaler Node.js Certification (2025) · MyCaptain Full Stack Development (2025)</sub>
-
 </div>
 
 <br/>
@@ -158,8 +156,6 @@ Image feature extraction and XGBoost classification of tomato leaf diseases, bui
 Open to internships and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/dishaj9/).
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dish982&label=PROFILE+VIEWS&color=b57edc&style=for-the-badge" alt="profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:fff1c9,50:d4f1e4,75:c9e4ff,100:e4d4f4&height=90&section=footer" width="100%" alt="footer" />
 
