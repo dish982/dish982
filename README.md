@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-e4d4f4?style=for-the-badge&logo=netlify&logoColor=5b4b6b)](https://dishajagetia.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-ffd6e0?style=for-the-badge&logo=linkedin&logoColor=5b4b6b)](https://www.linkedin.com/in/dishaj9/)
-[![Email](https://img.shields.io/badge/Email-write_to_me-d4f1e4?style=for-the-badge&logo=gmail&logoColor=5b4b6b)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-write_to_me-d4f1e4?style=for-the-badge&logo=gmail&logoColor=5b4b6b)](mailto:contact.dishaj@gmail.com)
 
 </div>
 
@@ -53,7 +53,7 @@ Session-based authentication with salted PBKDF2 password hashing, a public/priva
 
 `React` `Node.js` `Express` `MongoDB`
 
-[![Live](https://img.shields.io/badge/Live-demo-00c853?style=for-the-badge)](http://wordweave-2yk8.onrender.com/)
+[![Live](https://img.shields.io/badge/Live-demo-00c853?style=for-the-badge)](wordweave-2yk8.onrender.com)
 [![Repo](https://img.shields.io/badge/GitHub-repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dish982/WordWeave)
 </details>
 
@@ -81,7 +81,7 @@ Responsive portfolio whose contact form logs to Google Sheets and sends confirma
 
 `TensorFlow` `MobileNetV3` `TensorFlow.js`
 
-[![Live](https://img.shields.io/badge/Live-demo-00c853?style=for-the-badge)](https://ecobloom-swart.vercel.app/dashboard/disease-detect)
+[![Live](https://img.shields.io/badge/Live-demo-00c853?style=for-the-badge)](https://ecobloom-swart.vercel.app/)
 [![Notebook](https://img.shields.io/badge/Colab-notebook-f9ab00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1TiE25TFcegYhvkbvIyET8W_eqVGwEDHg?usp=sharing)
 </details>
 
