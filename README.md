@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:fff1c9,50:d4f1e4,75:c9e4ff,100:e4d4f4&height=170&section=header&text=Hi%2C%20I%27m%20Disha%20Jagetia&fontSize=36&fontColor=1f2a44&fontAlignY=40&animation=twinkling" width="100%" alt="header" />
-
-<img src="https://github.com/dish982/dishaj/blob/main/cat.svg" width="200" alt="cat saying hi" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=19&duration=3000&pause=900&color=B57EDC&center=true&vCenter=true&width=520&lines=full-stack+developer;machine+learning+explorer;CS+student+%40+Mithibai+College%2C+Mumbai;open+to+internships" alt="typing intro" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,25:fff1c9,50:d4f1e4,75:c9e4ff,100:e4d4f4&height=140&section=header&text=Hi%2C%20I%27m%20Disha%20Jagetia&fontSize=36&fontColor=1f2a44&fontAlignY=40&animation=twinkling" width="100%" alt="header" />
+<img src="https://github.com/dish982/dishaj/blob/main/cat.svg" width="170" alt="cat saying hi" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=19&duration=3000&pause=900&color=B57EDC&center=true&vCenter=true&width=520&height=40&lines=full-stack+developer;machine+learning+explorer;CS+student+%40+Mithibai+College%2C+Mumbai;open+to+internships" alt="typing intro" />
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-e4d4f4?style=for-the-badge&logo=netlify&logoColor=5b4b6b)](https://dishajagetia.netlify.app)
@@ -32,8 +30,8 @@ Currently a B.Sc. Computer Science student at Mithibai College, Mumbai (2024 –
 
 <br/>
 
-<a href="https://github.com/dish982"><img src="https://github-readme-stats.vercel.app/api?username=dish982&show_icons=true&bg_color=FBF7FF&title_color=B57EDC&icon_color=FF8FAB&text_color=5B4B6B&border_color=E4D4F4" height="165" alt="github stats" /></a>
-<a href="https://github.com/dish982"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dish982&layout=compact&bg_color=FBF7FF&title_color=B57EDC&text_color=5B4B6B&border_color=E4D4F4" height="165" alt="top languages" /></a>
+<a href="https://github.com/dish982"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dish982&theme=default" height="165" alt="github stats" /></a>
+<a href="https://github.com/dish982"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dish982&theme=default" height="165" alt="top languages" /></a>
 
 <br/>
 
@@ -51,7 +49,7 @@ Currently a B.Sc. Computer Science student at Mithibai College, Mumbai (2024 –
 <summary><b>WordWeave</b> · <i>MERN blogging platform</i></summary>
 <br/>
 
-Session authentication with bcrypt, server-enforced private posts, guest mode and server-side search. Deployed on Render with MongoDB Atlas.
+Session-based authentication with salted PBKDF2 password hashing, a public/private post toggle enforced on the server, guest read-only mode and secure server-side search.
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -111,7 +109,7 @@ Image feature extraction and XGBoost classification of tomato leaf diseases, bui
 
 <br/>
 
-## 🧺 skills
+## 🌸 skills
 
 <div align="center">
 
