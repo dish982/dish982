@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-e4d4f4?style=for-the-badge&logo=netlify&logoColor=5b4b6b)](https://dishajagetia.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-ffd6e0?style=for-the-badge&logo=linkedin&logoColor=5b4b6b)](https://www.linkedin.com/in/dishaj9/)
-[![Email](https://img.shields.io/badge/Email-write_to_me-d4f1e4?style=for-the-badge&logo=gmail&logoColor=5b4b6b)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-write_to_me-d4f1e4?style=for-the-badge&logo=gmail&logoColor=5b4b6b)](mailto:dishajagetia9@gmail.com)
 
 </div>
 
@@ -26,16 +26,14 @@ I build web applications end to end, from the React frontend to the Express and 
 
 ### full-stack
 
-**WordWeave · MERN blogging platform** &nbsp; [repo](https://github.com/dish982/REPO_NAME) · [live](https://YOUR_LIVE_LINK)
+**WordWeave · MERN blogging platform** &nbsp; [repo](https://github.com/dish982/REPO_NAME) · [live](https://github.com/dish982/WordWeave)
 `React` `Node.js` `Express` `MongoDB`
 Session authentication with bcrypt, server-enforced private posts, guest mode and server-side search. Deployed on Render with MongoDB Atlas.
 
-**Personal portfolio** &nbsp; [live](https://dishajagetia.netlify.app) · [repo](https://github.com/dish982/REPO_NAME)
+**Personal portfolio** &nbsp; [live](https://dishajagetia.netlify.app) · [repo](https://github.com/dish982/portfolio-disha)
 `React (Vite)` `Tailwind CSS` `Framer Motion`
 Responsive portfolio whose contact form logs to Google Sheets and sends confirmation emails through Google Apps Script. Deployed on Netlify.
 
-**Indian Constitution gamified platform** &nbsp; [repo](https://github.com/dish982/REPO_NAME)
-Interactive modules that teach constitutional rights. 1st place at the Mithibai internal hackathon and Smart India Hackathon nominee.
 
 <sub>also built: Telegram to-do bot (Node.js, Telegraf, MongoDB Atlas) · Bookstore REST API · Paliwal Dairy Admin (Flutter, MongoDB)</sub>
 
@@ -54,15 +52,6 @@ Analysed 200,000 ride records: cleaned missing values, removed invalid passenger
 Image feature extraction and XGBoost classification of tomato leaf diseases, built as an academic mini-project.
 
 <br/>
-
-## ✦ experience
-
-**Shopify Developer Intern · Scentivia Perfumes** &nbsp; <sub>May – Jun 2026</sub>
-- Worked on the company's Shopify website: configured tiered automated discount bundles, marketing opt-ins and a subscription popup.
-- Built a custom review system with Node.js and Express (discount code generation, image uploads, API credentials handling), deployed on Render.
-
-**Frontend Web Developer · Mithibai Cultural Committee** &nbsp; <sub>Jul – Aug 2026</sub>
-- Built the frontend of the Annual Talent Search registration system with Next.js, React and Tailwind CSS, using responsive layouts and smooth UI animations.
 
 <br/>
 
